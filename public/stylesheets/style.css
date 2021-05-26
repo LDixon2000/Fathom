@@ -5,13 +5,28 @@ body {
   color: #f7f7f7 !important;
   text-align: center;
 }
+input{
+  padding: 10px;
+}
+
+#logo img{
+  width: 300px;
+}
 
 .header-container{
   margin-top: 10%;
 }
 
 .joke-container{
-  margin-top: 40%;
+  margin-top: 10%;
+}
+
+.jokes-buttons{
+  margin-top: 5%;
+}
+
+.joke-wrapper{
+  margin-top: 2%;
 }
 
 .container{
