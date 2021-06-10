@@ -8,7 +8,7 @@ Use npm to install the dependencies
 npm install
 ```
 
-To install the SQL database please download [MySQL Workbench](https://dev.mysql.com/downloads/workbench/), then create a new connection with hostname: localhost and port: 3306. Once connected, use the import wizard to create the table using the jokes.json file in the installation folder.
+To install the SQL database please download [MySQL Workbench](https://dev.mysql.com/downloads/workbench/), then create a new connection with hostname: localhost and port: 3306. Once connected, use the import wizard to create the table using the jokes.json file.
 
 ## Running the server
 Use the npm command below to run the server.
